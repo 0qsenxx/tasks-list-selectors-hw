@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasks-list-selectors-hw/static/css/main.5081972d.css",
+    "main.js": "/tasks-list-selectors-hw/static/js/main.d82bc5cb.js",
+    "index.html": "/tasks-list-selectors-hw/index.html",
+    "main.5081972d.css.map": "/tasks-list-selectors-hw/static/css/main.5081972d.css.map",
+    "main.d82bc5cb.js.map": "/tasks-list-selectors-hw/static/js/main.d82bc5cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5081972d.css",
+    "static/js/main.d82bc5cb.js"
+  ]
+}
